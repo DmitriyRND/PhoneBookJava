@@ -7,7 +7,7 @@ public class PhoneBook {
     public void start() {
         block1:
         while (true) {
-            System.out.println("1 добавить контакт");//проверять что имя или номер не пустая строка
+            System.out.println("1 добавить новый контакт");//проверять что имя или номер не пустая строка
             System.out.println("2 списк контактов");
             System.out.println("3 поиск контакта по имени"); //ввоим имя и выводим его номер
             System.out.println("4 удалить контакт");//по минеи назодим контакт и в эту ячейку присваиваем null
